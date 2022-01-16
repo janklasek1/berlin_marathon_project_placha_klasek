@@ -7,10 +7,10 @@ This project is divided into three files:
 
 * Scraper
   - this file aims to scrape information about each runner from his/her own result page
-  - firstly, we build a list of all the pages where the results table is displayed (website allows max. of 100 results per page), then we obtain a unique link to the page of every single participant; finally we loop through each link (over 23,000) to scrape the desired data
+ 
 
 * Cleaner
-  - we extract the nationality from the name column, gender and age range (exact age is not available) from the Category and tranform times into feasible formats for the analysis (seconds/minutes)
+  - clean the data and get ready-to-use columns for the analysis
 
 * Analyser
   - all the final analysis, both numerical and graphical will be done in this Jupyter notebook 
