@@ -1,0 +1,9 @@
+site_name: Berlin marathon 2021 analysis
+site_url: https://github.com/janklasek1/berlin_marathon_project_placha_klasek.git
+nav:
+  - Home: index.md
+  - Scraper: Scraper.md
+  - Cleaner: Cleaner.md
+  - Analyser: Analyser.md
+theme: readthedocs
+
