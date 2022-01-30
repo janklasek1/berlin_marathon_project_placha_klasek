@@ -18,7 +18,7 @@ Following commands need to be run (if not done anytime before) to make all noteb
 
 
 ### Code
-The code is divided into three notebooks (for their content open the respective link on the left:
+The code is divided into three notebooks (for their content open the respective link on the left):
 
 1. Scraper
 
