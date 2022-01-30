@@ -14,3 +14,6 @@ This project is divided into three files:
 
 * Analyser
   - all the final analysis, both numerical and graphical will be done in this Jupyter notebook 
+
+
+Full description and documentation available here: https://janklasek1.github.io/berlin_marathon_project_placha_klasek/
