@@ -1,5 +1,13 @@
+#info
 site_name: Berlin marathon 2021 analysis
-site_url: https://github.com/janklasek1/berlin_marathon_project_placha_klasek.git
+site_url: https://janklasek1.github.io/berlin_marathon_project_placha_klasek
+site_author: Jan Klasek
+
+
+#repo
+repo_name: berlin_marathon_project_placha_klasek
+repo_url: https://github.com/janklasek1/berlin_marathon_project_placha_klasek.git
+
 nav:
   - Home: index.md
   - Scraper: Scraper.md
