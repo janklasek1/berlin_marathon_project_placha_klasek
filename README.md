@@ -19,3 +19,5 @@ This project is divided into three files:
 
 
 Full description and documentation available here: https://janklasek1.github.io/berlin_marathon_project_placha_klasek/
+
+(documentation file is intentionally kept public for cooperation, usually, it is a part of .gitignore)
