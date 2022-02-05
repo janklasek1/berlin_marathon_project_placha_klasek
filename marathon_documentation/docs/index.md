@@ -15,6 +15,12 @@ Following commands need to be run (if not done anytime before) to make all noteb
 
 `pip install time`
 
+`pip install sklearn`
+
+`pip install statsmodels`
+
+
+
 
 
 ### Code
